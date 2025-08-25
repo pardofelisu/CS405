@@ -1,2 +1,2 @@
 # CS405
-cs 405 work
+cs 405 work and projects
